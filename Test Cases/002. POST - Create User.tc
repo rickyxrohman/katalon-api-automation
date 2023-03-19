@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002. POST - Create User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>188f6ac4-db27-4faf-85b5-d5936158e54f</testCaseGuid>
+</TestCaseEntity>

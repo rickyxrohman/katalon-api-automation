@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001. GET - List User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e569215c-a113-4252-ae71-93926039bfe7</testCaseGuid>
+</TestCaseEntity>

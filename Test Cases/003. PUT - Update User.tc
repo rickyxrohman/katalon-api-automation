@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003. PUT - Update User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05ac62d7-d0ec-433f-83cc-db9d043e1b8a</testCaseGuid>
+</TestCaseEntity>
